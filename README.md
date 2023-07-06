@@ -6,6 +6,6 @@ Usage:
 bash ipaddrcheck.sh <ipaddr>
 ```
 
-returms 0 if succceed
+returms 0 if succeed
 
 returns 20 if <ipaddr> is incorrect
