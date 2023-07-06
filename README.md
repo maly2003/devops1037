@@ -7,4 +7,5 @@ bash ipaddrcheck.sh <ipaddr>
 ```
 
 returms 0 if succceed
+
 returns 20 if <ipaddr> is incorrect
