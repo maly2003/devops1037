@@ -8,4 +8,4 @@ bash ipaddrcheck.sh <ipaddr>
 
 returns 0 if succeed
 
-returns 20 if <ipaddr> is incorrect
+returns 20 if \<ipaddr\> is incorrect
